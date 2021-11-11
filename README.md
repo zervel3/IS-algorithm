@@ -1,2 +1,2 @@
 # IS-algorithm
-The algorithm to quantify individuals influence and susceptibility from individual interaction data
+The algorithm to quantify individuals influence and susceptibility from individual interactive data
